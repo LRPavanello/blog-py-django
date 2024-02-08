@@ -2,6 +2,8 @@
 
 This repository contains the source code and resources needed to build a blog using Django.
 
+<img src="upblog.png"/>
+
 ## Project description
 
 The project consists of developing a blog using the Django framework, providing a solid structure for creating, viewing, editing and deleting posts.
